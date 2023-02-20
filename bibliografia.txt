@@ -1,2 +1,3 @@
-Chacon, S. i Straub, B. Pro Git. Naciskać.
-Loeliger, J. i McCullough, M. Kontrola wersji za pomocą Git. O'Reilly.
+Chacon, S. and Straub, B. Pro Git. Apress.
+Loeliger, J. and McCullough, M. Version control with Git. O’Reilly.
+Hodson, R. Ry’s Git Tutorial. Smashwords (2014)
